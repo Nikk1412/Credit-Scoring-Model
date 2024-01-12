@@ -1,5 +1,6 @@
 # Credit-Scoring-Model
-What Is a Credit Score?
+**What Is a Credit Score?
+**
 
 A credit score is a three-digit number that rates your creditworthiness. FICO scores range from 300 to 850. The higher the score, the more likely you are to get approved for loans and for better rates.
 
@@ -30,6 +31,21 @@ How Your Credit Score Is Calculated..
  
 4. Types of credit (10%)
  
-5. New credit (10%
+5. New credit (10%)
 
+Libraries:-
+
+> pandas
+
+> matplotlib
+
+> seaborn
+
+> scikit-learn
+
+Algorithms 
+
+Logistic Regression
+
+Best Model Accuracy : 83%
 
